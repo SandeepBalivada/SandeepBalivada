@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandeepBalivada and you can simply call me Sandeep
 - 👀 I’m interested in ML, AI and DSA
 - 🌱 I’m currently enhancing my skills in the latest technologies 
-- 💞️ I’m looking to collaborate on flutter development as I've recently developed a new end application on the same using many interesting techniques
+- 💞️ I love spending my time in coding
 - 📫 You can reach me at sandeepbalivada.codekisans@gmail.com on Gmail and https://www.linkedin.com/in/sandeep-balivada-0b0568137/ on linkedIn
 
 <!---
